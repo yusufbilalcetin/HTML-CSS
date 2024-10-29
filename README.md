@@ -3,29 +3,32 @@
 This project contains a collection of basic HTML web pages created while learning HTML and CSS. Each page demonstrates different HTML elements, including headings, paragraphs, lists, images, tables, forms, IDs, classes, and CSS styling methods.
 
 ## Table of Contents
-- [Headings](#headings)
-- [Text Styling](#text-styling)
-- [Hyperlinks](#hyperlinks)
-- [Lists](#lists)
-- [Images](#images)
-- [Address](#address)
-- [Tables](#tables)
-- [Forms](#forms)
-- [Special Characters and IDs](#special-characters-and-ids)
-- [Abbreviations and Quotes](#abbreviations-and-quotes)
-- [Aside Element](#aside-element)
-- [Header and Footer](#header-and-footer)
-- [IDs and Classes](#ids-and-classes)
-- [Blog Post](#blog-post)
-- [Navigation, Section, and Article](#navigation-section-and-article)
-- [Span and Div](#span-and-div)
-- [Time Element](#time-element)
-- [External CSS](#external-css)
-- [Getting Started with CSS](#getting-started-with-css)
-- [Inline CSS](#inline-css)
-- [Internal CSS](#internal-css)
-- [Class Selectors](#class-selectors)
-- [ID Selectors](#id-selectors)
+
+| **Section**                                | **Link**                                              |
+|--------------------------------------------|------------------------------------------------------|
+| Headings                                   | [Headings](#headings)                               |
+| Text Styling                               | [Text Styling](#text-styling)                       |
+| Hyperlinks                                 | [Hyperlinks](#hyperlinks)                           |
+| Lists                                      | [Lists](#lists)                                     |
+| Images                                     | [Images](#images)                                   |
+| Address                                    | [Address](#address)                                 |
+| Tables                                     | [Tables](#tables)                                   |
+| Forms                                      | [Forms](#forms)                                     |
+| Special Characters and IDs                 | [Special Characters and IDs](#special-characters-and-ids) |
+| Abbreviations and Quotes                   | [Abbreviations and Quotes](#abbreviations-and-quotes) |
+| Aside Element                              | [Aside Element](#aside-element)                     |
+| Header and Footer                          | [Header and Footer](#header-and-footer)             |
+| IDs and Classes                            | [IDs and Classes](#ids-and-classes)                 |
+| Blog Post                                  | [Blog Post](#blog-post)                             |
+| Navigation, Section, and Article           | [Navigation, Section, and Article](#navigation-section-and-article) |
+| Span and Div                               | [Span and Div](#span-and-div)                       |
+| Time Element                               | [Time Element](#time-element)                       |
+| External CSS                               | [External CSS](#external-css)                       |
+| Getting Started with CSS                   | [Getting Started with CSS](#getting-started-with-css) |
+| Inline CSS                                 | [Inline CSS](#inline-css)                           |
+| Internal CSS                               | [Internal CSS](#internal-css)                       |
+| Class Selectors                            | [Class Selectors](#class-selectors)                 |
+| ID Selectors                               | [ID Selectors](#id-selectors)                       |
 
 ## Headings
 This page demonstrates different heading levels (from `h1` to `h6`).
